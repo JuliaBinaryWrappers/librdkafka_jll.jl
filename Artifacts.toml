@@ -1,288 +1,288 @@
 [[librdkafka]]
 arch = "aarch64"
-git-tree-sha1 = "f57f6cfe49b8f87c611a28ad324f6e7b21e302bd"
+git-tree-sha1 = "827b3c0b750ce6753eb46ada72cff020b6a28a13"
 os = "macos"
 
     [[librdkafka.download]]
-    sha256 = "bb1a70ce2c081f72cec8b4f293395b685301d128e99c5a2aa0ca430b2ac727fb"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "5abd88db31491642d1428aa17c99dfe2fd939f1960bcaf397051aa012a313d32"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.aarch64-apple-darwin.tar.gz"
 [[librdkafka]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e2abf4b866fd0c6faa825c6d4462cbe9e999bf72"
+git-tree-sha1 = "544f0b3ed936489094344a0ef70742c3313329fc"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "0d6d953583802104746c31d85e9f55ea43e4476d7b92509c72efa3661492c2f9"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "7fec99ab3f641cde84a9d758b4c461a6244eaa8dcac1abe081f89a008723fb0a"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[librdkafka]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1b9c6dc59cf858096e8a4ef0b969aed13ad654b"
+git-tree-sha1 = "8c5d3cbc58c1cbc62174fc340c016276e9815aef"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "eef87d58a89f4605a5e305f8e1e87aa334a578e5ad6931ab427b8532766ed773"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "dde2e8eaf0fe5232bc694eb59d2fb00fb239a8d1f0bd8f9f14cde20b6429ff6d"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[librdkafka]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ecc6549345c437733616f7d0494136bad4e7a046"
+git-tree-sha1 = "313cf89db935b4c761f18e79ee71f6a1065df53f"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "650942699b32c6bf2cb3d0e56154bb7f52e6c485f0b26ce8f4ddc07a38989b75"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "e4a4c4c2fa9d39c64249e581c9805cb10fcc89bb738dfd844bf48658ac1f8464"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.aarch64-linux-musl-cxx03.tar.gz"
 [[librdkafka]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "499d8c0b798f49f62356aed84af4a84a1d4ffb2f"
+git-tree-sha1 = "10014bc79be89fae3e2c4ec5834ca0e0115e0af9"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "8ccbfdd9eee970efe47b383d731b58537dc3956b8e421c56622e571d6e5062f0"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "12b7a26667a88fd83890555acbb9edca14ce74ccc64883ba07b9ceeba58f39ce"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.aarch64-linux-musl-cxx11.tar.gz"
 [[librdkafka]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5a389100f8a9f3ee8ad149036e8346ec8e64e442"
+git-tree-sha1 = "f4c889ab544f02f640ba17bc2e53556dfa2627b1"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "bc668bc867b436644e4fbabfe963d7e038ca13d3344b47edaa2ddb48defb8a42"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "6c27c7b9317f2a8c54a6138372047f1f1895d1a64ba32657c0a9d252138f86a9"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[librdkafka]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "707176b307924490b410c71caa201d4f1ce9a31f"
+git-tree-sha1 = "3dbf29b1bfd3df51dcab9b8b3bbd71c15242e8a0"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "ffc03712dddb614a3fcbb02bc74021508a5ccdb11b14d804e86eb94493567b7f"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "bfb79780ba017ae3b8976a8b54fbd380973cce04474a68eff4cf259bf4502786"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[librdkafka]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "549034a44641dc2aad12b4fe1dbfc93b60c37ad1"
+git-tree-sha1 = "a6d4ceb0156ea2db8fd67af66b3c0e62a883e62d"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "09e5ee6ef4785af5ac3e4b3d98c2cf9a902fa96e8be6b5b01ca8424c98ca169a"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "f5de222f002c2a9e288952435ff94151145d0752d833f4a3886e3c2056c2ac4d"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[librdkafka]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2fd63e7fb793c92d2c4c6e9117678353cb1760e1"
+git-tree-sha1 = "9ff0fb6e0eaccc36042c48cee43c56090b1cfc6e"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "6198377d152cb7b9d2c3fa8e79cde0be48bb3f8a7f6751e2f6f901616a9c2e57"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "d02f2e2f788ac615a9af0d0f99c460d40a27c0db35360897b57909cce53c83cb"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[librdkafka]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d831e27b6abc230f68f21a9bd9d597d548ae43b8"
+git-tree-sha1 = "2fb7440efea282d933db95c32b93f26fda57bcb8"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "8001f6497eae1737ee76454311bb5eb5fdda553336ec3534e6e854bc2e5abac3"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "90d058f1776e5791719660ef5d6d0a6c107acc00448a284fe46f3e16226b8d8d"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[librdkafka]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "861dd77fc8281ef04d1a0b260c2e56bb480b29ad"
+git-tree-sha1 = "8af728b21103830935996c5447b49807d972c153"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "8a06256fc33b6ce8659c3748aa801701fec9f0ad8856cf3fcdb2aace2fb7e37a"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "2ca9e25a59dd73b30ffc74fe816b522157f6edc7c92cdede0a3190d9719e732f"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[librdkafka]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81f95c5056622ad35cd946fa0678e08dc0c1e4b0"
+git-tree-sha1 = "4c1ab003dba06d726abb08347007283c7f1004e3"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "c19bc69a415dd60da0cb2e231108498b9bcfc280fe44a37f1149573b211e7506"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "dfcab1287170229ec05b6220b2d06a146784a3aa33522e3faef2abb6729b12bd"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[librdkafka]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "352e72ddeeee307974584caca5aba498bccbf34e"
+git-tree-sha1 = "14f2bc48ffccfae07750b90f1500428d1a43759b"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "1df278b6e8fa16b9e4a10cca4a52f59aad0f476f59074146791025bcbfaba6b5"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "d14e20015af3d89472982d4b56ab94f026aeb305abe9f31f0c236b02870fdc94"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[librdkafka]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "76f3df727f923ef7c0878e6c6ea97b3f34e2f156"
+git-tree-sha1 = "0f6e4e11558a5abdd45bf12c057ed86661f3cbb0"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "d47dfe17a322ce26e3f14490a647331c4baf4b57c784a87327e612cc266557d9"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "7333fad427735b2597289c4044e5cb6025c12fdf5ec5285639a1a508ea720773"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.i686-linux-gnu-cxx03.tar.gz"
 [[librdkafka]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "11037f756a333a6ff050e469fcc13b10303886c3"
+git-tree-sha1 = "d6a93bee6f46ebade90c4e586e850a87096d2c68"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "f2915907b73755e1efd7a0542566cd823049f5622e0df4fee13d9a7d69837fa3"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "10b6558f57797f48f4e132afff0e3741dd5f2f7f8fcf344000341e99d86b4e1b"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.i686-linux-gnu-cxx11.tar.gz"
 [[librdkafka]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8eebf070e3bbb185664f956b1bfe12034178e683"
+git-tree-sha1 = "0eaa1b994bc2f9858db4d78955dc6c4671343b30"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "da2ff50515ce83b31d0cc8bac4aa7aadd04d71f75d2052191183344551fbd141"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "f257980b9666d490d52e5e384c8f80aa90d809762978a67b3f53d8b8e6782de7"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.i686-linux-musl-cxx03.tar.gz"
 [[librdkafka]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "56287e490d2db70a30d7ad300388b87bed92da1a"
+git-tree-sha1 = "c3fbede80ee2b8cab8837d4c2c8e653d46e4d489"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "307414d1100744264235850cba316cc02ee59fc8bdb170ddc46aacaca914e01f"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "93ec3548e26a20d0c4f7ae946a6587ef4daa99a9bf2662edde5c882eb5dc5337"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.i686-linux-musl-cxx11.tar.gz"
 [[librdkafka]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0a31c7dc957f1ce5433a662675734dab5595e3e3"
+git-tree-sha1 = "a25ac8ebc43aa85c1e5336907f746863afb91466"
 os = "windows"
 
     [[librdkafka.download]]
-    sha256 = "3d8ae069763b2c4fb34b5a1788744e4e731ef084f21bace539aaaf6dd813c407"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "8dbab79d4e316211d1551d87a6c0305fc7a64bd5f112cf4bc747035e97b91bd3"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.i686-w64-mingw32-cxx03.tar.gz"
 [[librdkafka]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99734c6c3f8bba4e665ff50263f030a800315fbf"
+git-tree-sha1 = "2a6f727449e9b596416ca541e0bcdf9eeef35600"
 os = "windows"
 
     [[librdkafka.download]]
-    sha256 = "8a9b73aadb8cf4a5d08db0c0c9082481bd8e6692f4f6fc8b6beb0d883e3be5e4"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8f16fceeef27bd135d7c18d0fddde4ed89b2d5e7247b3d3e703c46e30029f4d0"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.i686-w64-mingw32-cxx11.tar.gz"
 [[librdkafka]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "216a3e1c7ceb6c6a9c0593ffa48435c5bea7539b"
+git-tree-sha1 = "f51e7ded765d57e503366077b578005bb8c7d00a"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "a6d4207672beae968b0b2159668292929f5fb32f807941255d57eb2cf663cfc0"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "4d75996ea8e73dc5aae6babb203a462246549d77e9515db88a790d5cca7681c4"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[librdkafka]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8eae9b5b012beb30a7f00f374a40f6da335499b"
+git-tree-sha1 = "650bbcd9446febbacde693788435a56cc3d0057f"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "ab7e566069dc48f07dca6ae15be69097b37ea816fc7b1c3a3d35687a00ff7f2a"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "1425a0dfcd9a5f158cbe824cc5c559a501f62ddd625ac4139e6867cdf96df58e"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[librdkafka]]
 arch = "x86_64"
-git-tree-sha1 = "53484efd0ba6efea92030f1f717ed9cb7b07f96f"
+git-tree-sha1 = "db64c740ec0baca412f1fc17218bf20e78a80f8e"
 os = "macos"
 
     [[librdkafka.download]]
-    sha256 = "5613066fdf4d95e03c6da7fbe3328a6c6225808a007e6bdffb77bdeeb866c001"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "baaf837abdc52e7ccac8c18f2b204b5cca1d3f686148e7ecfd84242aa914eb39"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.x86_64-apple-darwin.tar.gz"
 [[librdkafka]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0e805645c41052a1eb3e6a2309a3352d88eb6869"
+git-tree-sha1 = "ddbb66fcfd0f40663f1ea7f95ab2c0367d0c6798"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "e57c7ad532f8e0c48880b24a32503a69817a9d38ec8220abd11f323ba3340cf6"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "f34bbc7f08309f94a7decb4097ca5fdd6ac0189261ba4a4ff4da06b7a483bbe1"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[librdkafka]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8ba46c6bc580d049f4a374f188d9252ccec8fa00"
+git-tree-sha1 = "be060bb23aa94acc52353b04ef3218368c78a469"
 libc = "glibc"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "280bbab40cb7997b8af8222a72288e1dddeefba5fc418c515a8f8edfb6db67ea"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ae7b349eb8cf3631b4f4c985683d394ab992917bb1c7603921cdd46037cb295d"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[librdkafka]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4f8be39343f62acdedd7b2d6abca5c60011b2354"
+git-tree-sha1 = "e9541422bc3769fa8c4d7c84abe29a4a7243d8b8"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "188bb0dc09973746268b6a487291235c708bfa3d0aa2c67a702741a9eeff05ab"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "6cfb103b26696c2ccfe11765cecc80452f14b891ee11754c1bc3733439366229"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.x86_64-linux-musl-cxx03.tar.gz"
 [[librdkafka]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f833fd242a8c1e5ed9c7e76a6853f282be00201d"
+git-tree-sha1 = "a0dab386bced17b12900547e39182cb2af7f7f01"
 libc = "musl"
 os = "linux"
 
     [[librdkafka.download]]
-    sha256 = "2898211bee452360554f397730e1b8e5d42a20ac4f03812ad3ecbe0337d97138"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "538f2543d2d73c34ada58e3bdacf9526cf853c3067b89c09d3d455eb083fb8bb"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.x86_64-linux-musl-cxx11.tar.gz"
 [[librdkafka]]
 arch = "x86_64"
-git-tree-sha1 = "4d88108237df829eaff70588a91943912d475c1e"
+git-tree-sha1 = "0d0c9c7d466b67aafe61685c1dd0d664d069d9fc"
 os = "freebsd"
 
     [[librdkafka.download]]
-    sha256 = "23402c141815129ce75bfff86f007e0a737499b14bec6ea0be6855387a4c175a"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "389e8a28f503abb633bea0bcc9fd846c8240b24b8576370e3c2f648183eb821a"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.x86_64-unknown-freebsd.tar.gz"
 [[librdkafka]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1450977b3713c52f73fd600ba30f8de89894290e"
+git-tree-sha1 = "bc946739c7275256f33cbe381e97589c1750d145"
 os = "windows"
 
     [[librdkafka.download]]
-    sha256 = "573f13f318208c994668e7ab8714162766ed56d8324f97dd06984233efdb9273"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "fde528fd7dcac8b61d86f7085c6945e876008d9c658599edd22e9b1ff621d583"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.x86_64-w64-mingw32-cxx03.tar.gz"
 [[librdkafka]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c69d0e75ccb65e8e3d6fe72f7f5c16b7a665dbe"
+git-tree-sha1 = "ce45225138c30976997847cac76b3e409dd14070"
 os = "windows"
 
     [[librdkafka.download]]
-    sha256 = "57c30d81f85df0b212a2b8abcb9a6651f346d503f0aecf52e0273249fb021937"
-    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v1.8.2+0/librdkafka.v1.8.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "47e3fc81047ae2f6816f00463cbfc48fa21d58d1bac70e9ce113ba42163fda0f"
+    url = "https://github.com/JuliaBinaryWrappers/librdkafka_jll.jl/releases/download/librdkafka-v2.0.2+0/librdkafka.v2.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
