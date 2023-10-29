@@ -1,6 +1,6 @@
 name = "librdkafka_jll"
 uuid = "7943bfb0-7437-5acd-a008-22777931c7aa"
-version = "2.3.0+0"
+version = "2.3.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
